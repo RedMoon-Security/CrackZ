@@ -21,7 +21,7 @@ def main():
     parser.add_option('-d', dest='DictionaryName', type='string', help='Specify Dictionary')        # Add user input options
     (options,args) = parser.parse_args()                                                            # Add user input options
     if (options.ZipFileName == None) | (options.DictionaryName == None):                            # Add user input options
-        print("\nUsage: ZipCrack.py -f <filename> -d <dictionary> or -h for help\n")                # Add user input options
+        print("\nUsage: CrackZ.py -f <filename> -d <dictionary> or -h for help\n")                # Add user input options
         exit(0)
     else:
         zipname = options.ZipFileName
