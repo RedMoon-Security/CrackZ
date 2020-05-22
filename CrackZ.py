@@ -16,7 +16,7 @@ def zipcrack(zFile,password):
         print(Fore.RED + "[-] " + password.decode() + " = Bad Password" + Style.RESET_ALL)
 
 def main():
-    parser = OptionParser(usage="Usage: CrackZ.py -f <Filename> -d <Dictionary>")                 # Add user input options
+    parser = OptionParser(usage="Usage: CrackZ.py -f <Filename> -d <Dictionary>")                   # Add user input options
     parser.add_option('-f', dest='ZipFileName', type='string', help='Specify Zip File')             # Add user input options
     parser.add_option('-d', dest='DictionaryName', type='string', help='Specify Dictionary')        # Add user input options
     (options,args) = parser.parse_args()                                                            # Add user input options
