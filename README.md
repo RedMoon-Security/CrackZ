@@ -6,7 +6,7 @@ Visit us at (https://redmoonsecurity.com)
 
 View a demo on YouTube here: (https://youtu.be/MrCsGq9WU4A)
 
-![DomainBrute Screenshot](https://user-images.githubusercontent.com/62467907/79632647-f8d87400-8160-11ea-95d5-85893bad49d8.png)
+![CrackZ Screenshot](https://user-images.githubusercontent.com/62467907/82645591-6883c800-9c13-11ea-9c5e-42e66039c8b5.png)
 
 ## *Usage*
 
