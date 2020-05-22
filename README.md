@@ -10,6 +10,7 @@ View a demo on YouTube here: (https://youtu.be/MrCsGq9WU4A)
 
 ## *Usage*
 
-./DomainBrute.py
+./CrackZ.py -f <filename> -d <dictionary> or -h for help
 
-Make sure the subdomain_list.txt file is in the same directory as DomainBrute.py<br/>Alternatively, enter the path to your own custom list at the prompt<br/><br/>Enter the domain you want to discover subdomains for and press enter.
+Enter a filename or path to the zip file using the -f flag.
+Enter a dictionary name or path to a dictionary/wordlist using the -d flag
